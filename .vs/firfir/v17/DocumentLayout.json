@@ -46,21 +46,19 @@
               "RelativeToolTip": "Infrastructure\\BitmapValueConverter.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:53:38.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T17:53:38.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "firfir",
+              "Title": "firfir.csproj",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\firfir.csproj",
               "RelativeDocumentMoniker": "firfir.csproj",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\firfir.csproj",
               "RelativeToolTip": "firfir.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-18T17:46:41.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T17:46:41.569Z"
             },
             {
               "$type": "Document",
@@ -71,8 +69,7 @@
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Views\\MainWindow.axaml",
               "RelativeToolTip": "Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-18T17:45:57.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T17:45:57.333Z"
             },
             {
               "$type": "Document",
@@ -82,7 +79,7 @@
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T17:44:45.858Z",
               "EditorCaption": ""
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Models\\NewsEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:43:57.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T17:43:57.974Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "Models\\BlogsEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T17:43:04.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T17:43:04.526Z"
             },
             {
               "$type": "Bookmark",
