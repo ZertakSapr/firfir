@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\infrastructure\\bitmapvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|solutionrelative:infrastructure\\bitmapvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\firfir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|solutionrelative:firfir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\models\\newsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|solutionrelative:models\\newsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\models\\blogsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38FE6A0C-C873-4A12-9C18-3AAF188CBC6E}|firfir.csproj|solutionrelative:models\\blogsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BitmapValueConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Infrastructure\\BitmapValueConverter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BitmapValueConverter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Infrastructure\\BitmapValueConverter.cs",
+              "RelativeToolTip": "Infrastructure\\BitmapValueConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:53:38.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "firfir",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\firfir.csproj",
+              "RelativeDocumentMoniker": "firfir.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\firfir.csproj",
+              "RelativeToolTip": "firfir.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T17:46:41.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T17:45:57.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:44:45.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Models\\NewsEntity.cs",
+              "RelativeDocumentMoniker": "Models\\NewsEntity.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Models\\NewsEntity.cs",
+              "RelativeToolTip": "Models\\NewsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:43:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Models\\BlogsEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BlogsEntity.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\firfir\\Models\\BlogsEntity.cs",
+              "RelativeToolTip": "Models\\BlogsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:43:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
