@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="1400" d:DesignHeight="600"
         x:Class="firfir.Views.MainWindow"
-
+		xmlns:infrastructure="clr-namespace:firfir.Infrastructure;assembly=firfir"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
         Title="firfir">
@@ -27,7 +27,7 @@
 			<StackPanel Orientation="Horizontal"
 					HorizontalAlignment="Left">
 
-				<TextBlock Margin="0 21">Home</TextBlock>
+				<TextBlock Margin="15 21">Home</TextBlock>
 				<TextBlock Margin="20 21">About</TextBlock>
 				<TextBlock Margin="15 21">Blog's main topic 1</TextBlock>
 				<TextBlock Margin="15 21">Blog's main topic 2</TextBlock>
@@ -43,14 +43,16 @@
 					<StackPanel>
 						<TextBlock TextWrapping="Wrap" Text="{Binding Article}"
 								   HorizontalAlignment="Center"
-								   Margin="0,20,0,40"/>
+								   Margin="15"/>
 						<TextBlock TextWrapping="Wrap" Text="{Binding Text}"
-								   Margin="20,0,50,0"/>
+								   Margin="15"/>
+						<Image Source="{Binding Image, Converter={x:Static infrastructure:BitmapValueConverter.Instance}}"
+							   Height="150"/>
 						
 
 						<ItemsControl ItemsSource="{Binding Tags} "
 									  VerticalAlignment="Bottom"
-									  Margin="20,40,0,0">
+									  Margin="20">
 							<ItemsControl.ItemsPanel>
 								<ItemsPanelTemplate>
 									<StackPanel Orientation="Horizontal" />

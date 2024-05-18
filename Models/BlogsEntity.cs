@@ -10,7 +10,9 @@ namespace firfir.Models
     {
         public string Article { get; set; }
         public string Text { get; set; }
+
+
         public List<string> Tags { get; set; }
-        public string ImagePath { get; set; }
+        public string Image { get; set; }
     }
 }

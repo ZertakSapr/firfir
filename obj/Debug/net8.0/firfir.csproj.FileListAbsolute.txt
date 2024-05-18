@@ -129,3 +129,4 @@ C:\Users\Алексей\OneDrive\Рабочий стол\firfir\obj\Debug\net8.0
 C:\Users\Алексей\OneDrive\Рабочий стол\firfir\obj\Debug\net8.0\firfir.csproj.Up2Date
 C:\Users\Алексей\OneDrive\Рабочий стол\firfir\obj\Debug\net8.0\firfir.genruntimeconfig.cache
 C:\Users\Алексей\OneDrive\Рабочий стол\firfir\obj\Debug\net8.0\ref\firfir.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\firfir\obj\Debug\net8.0\firfir.sourcelink.json
